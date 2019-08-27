@@ -1,6 +1,9 @@
-https://arul-tech.github.io/web_language.github.io/
+https://arul-tech.github.io/My_Website.github.io/.
+https://arul-tech.github.io/about.github.io/.
 https://arul-tech.github.io/arul-tech-gallery.github.io/.
 https://arul-tech.github.io/services.github.io/
+https://arul-tech.github.io/contact.github.io/.
 
-web_language.github.io
+
+
 
